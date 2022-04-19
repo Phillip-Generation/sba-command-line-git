@@ -30,7 +30,6 @@
 6. Add the changes to the staging area.
 7. Save the the changes to your local repository. Include as your message the full command you used to create the index.html file in step 3.
 8. Send the changes to your remote repository.
-9. Create a pull request
 
 ## Part Two: Command Line
 
