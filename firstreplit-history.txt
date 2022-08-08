@@ -1,0 +1,501 @@
+vR1HmG7zfX++3giL72M26Ap5uOmiGiV/xiGFuxpjbzec9um+vUFH7DEdTe0L4ZV0
+AZfNQASOsHCqjheK8pG/75+bxLOd/kmpYBEbSgSO5Q7+UJ2y/NuAmg4kNrKcs1MV
+BxenrWCelkzk2ShHAQBpCcx+bHh905vNvmiQWhD91jEtlQibAICJkDKf76FcT57h
+uNMbaYbYYRQ/JhYIH40ZgDnwp8Rd+5crLBfP4WjFrSGt1dMPylflrjCZqKkshrcb
+F7m4HSAkoY3D+a7qdfnNLiRGU86HHxMpxre6PbSHSWvZcOW+DjIF
+Private-Lines: 14
+AAABAGdB6APlhEcKCNt61rY7pDZAkkV/D2Yt1ayj0+XDwyOYSMqx6fHDmfFJSi89
+Gw94sV3UoEuOV2Aw321qsYXDlbV0sttpXJG1P/8kOgmYKUvYvqTC1dl60CREEH7a
+l3lP6NcvV2lux31QYWv3nbSHWbh8MKmtV2PSsQDkNFgHgTHIbyL7wF5s4Ehuo9pG
+JMKzpfE15QmM+7lmoT8i0hUJEyq18gUdgKYy+3n/z3YQ2Y9SfAiuZZ95QvAFOD8x
+KGMlTh+Ec2MGLljxyHQnd3OyaroXC/SoUANyS8MMkEOuXI2V4XoiGgNoWgOkEuuh
+uwLIdEg9UD3DVB7Ls1y1epOsoYEAAACBAP6WNveoUp7VwChUmEaULAOkYO5kWnqh
+3v6xOVQi3A0wGcklzD4/OO/Lw8QC4LX3lplBzzPc3/naxUaUJtOAK3/EHLTqYx6Z
+n4SsdvIEvu55eIlWcY28F6PljMdaxdQhDx/+S0ctjZN0i9LXYejAZss3WAKlkp+p
+N8wtHB39UkDdAAAAgQD6SPTxb/dsVbe6wMQfJfNK1HkGn/vFdDyMfD6d/EZFSe9E
+k1b4Q7wpjw19K0m7mLPGebg47a3BonZTLIHGAJkgz410+t8cMWZy4Q5R93rCrkrq
+AWBq/LWWwXXS6cOdjmpAH6nr/6AlwMrITX5SDfJnpz2ghmqorWi4MDiwndPPSQAA
+AIEAoFys1CqtlTpm3xRvAIpUz6DE2OiRou0sP7DUVAM930aD766NZutnTiSzCzfg
+qrnfnp/xdpyY3pKUdLn/aCIZX/uAL0o9CQG6sgjhnXcQDS7E6ZDUdb/o+kQeW/WC
+QrlQGbx1wxlKxRSd43i2XSapJWfDqNpIsnRk4UHW5xvB24w=
+Private-MAC: 1b9278bf2b59a9037b879bff87aa50170140996b
+chmod 600 ~/Downloads/qwikLABS-L16381300.pem
+ssh -i ~/Downloads/qwikLABS-L16381300.pem student-03-5832fbe8dad2@student-03-5832fbe8dad2
+cd data ; exit;
+chmod 600 ~/Downloads/qwikLABS-L16381300.pem
+ssh -i ~/Downloads/qwikLABS-L16381300.pem student-03-5832fbe8dad2@34.135.112.111
+chmod 600 ~/Downloads/qwikLABS-L16381300.pem 
+student-03-5832fbe8dad2@34.135.112.111
+student-03-5832fbe8dad2@34.135.112.111
+chmod 600 ~/Downloads/qwikLABS-L16381300.pem
+ssh -i ~/Downloads/qwikLABS-L16381300.pem student-03-5832fbe8dad2@34.135.112.111
+chmod 600 ~/Downloads/qwikLABS-L16381300.pem
+ssh -i ~/Downloads/qwikLABS-L16381300.pem student-03-5832fbe8dad2@34.135.112.111
+$ brew install git-gui
+chmod 600 ~/Downloads/qwikLABS-L16614732.pem
+ssh -i ~/Downloads/qwikLABS-L16614732.pem student-03-82d325f7de37@34.68.28.141
+chmod 600 ~/Downloads/qwikLABS-L16711060.pem
+ssh -i ~/Downloads/qwikLABS-L16711060.pem student-03-035602fcb1cd@35.188.156.173
+chmod 600 ~/Downloads/qwikLABS-L16724820.pem
+ssh -i ~/Downloads/qwikLABS-L16724820.pem student-03-105d1381bb65@34.67.161.61
+$ brew install git
+xcode-select --install
+curl -fsSL -o install.sh https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh
+less install.sh
+nano ~/.zshrc
+nano ~/.bash_profile
+# Add Homebrew's executable directory to the front of the PATH
+export PATH=/usr/local/bin:$PATH
+source ~/.zshrc
+source ~/.bash_profile
+brew doctor
+brew install tree
+which tree
+tree --version
+xcode-select --install
+curl -fsSL -o install.sh https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh
+less install.sh
+brew doctor
+echo $0
+nano ~/.zshrc
+source ~/.zshrc
+source ~/.bash_profile
+brew doctor
+xcode-select --install
+/bin/bash install.sh
+/bin/bash install.sh
+echo $0
+nano ~/.zshrc
+brew doctor
+brew install tree
+which tree
+tree --version
+brew install visual-studio-code
+chmod 600 ~/Downloads/qwikLABS-L17048998.pem
+ssh -i ~/Downloads/qwikLABS-L17048998.pem student-03-105d1381bb65@34.66.84.232
+chmod 600 ~/Downloads/qwikLABS-L17063418.pem student-03-f8f65b0c6cd5@35.238.239.146
+chmod 600 ~/Downloads/qwikLABS-L17063418.pem
+ssh -i ~/Downloads/qwikLABS-L17063418.pem student-03-f8f65b0c6cd5@35.238.239.146
+chmod 600 ~/Downloads/qwikLABS-L17166255.pem
+chmod 600 ~/Downloads/qwikLABS-L17166255.pem student-03-3ee4f77115d5@35.225.28.162
+ssh -i ~/Downloads/qwikLABS-L17166255.pem student-03-3ee4f77115d5@35.225.28.162
+chmod 600 ~/Downloads/qwikLABS-L17282975.pem
+ssh -i ~/Downloads/qwikLABS-L17282975.pem student-03-ccf856e96569@35.222.237.162
+chmod 600 ~/Downloads/qwikLABS-L1735.pem
+ssh -i ~/Downloads/qwikLABS-XXXXX.pem student-03-ccf856e96569@34.122.165.20
+git clone https://github.com/bossladyofthefuture/it-cert-automation-practice.git
+cd ~/it-cert-automation-practice
+git remote -v
+git remote add upstream https://github.com/bossladyofthefuture/it-cert-automation-practice.git
+git remote -v
+git config --global user.name "Fatima"
+git config --global user.email "bossladyofthefuture@gmail"
+git branch improve-username-behavior
+git checkout improve-username-behavior
+cd ~/it-cert-automation-practice/Course3/Lab4
+ls
+cat validations.py
+nano validations.py
+python3 validations.py
+nano validations.py
+python3 validations.py
+nano validations.py
+python3 validations.py
+nano validations.py
+python3 validations.py
+git status
+git add validations.py
+git status
+git commit
+chmod 600 ~/Downloads/qwikLABS-L17370726
+chmod 600 ~/Downloads/qwikLABS-L17370726.pem
+ssh -i ~/Downloads/qwikLABS-XXXXX.pem student-03-ccf856e96569@35.202.30.86
+yes
+chmod 600 ~/Downloads/qwikLABS-L17370726.pem
+ssh -i ~/Downloads/qwikLABS-L17370726.pem student-03-ccf856e96569@35.202.30.86
+chmod 600 ~/Downloads/qwikLABS-L17599712.pem
+ssh -i ~/Downloads/qwikLABS-L17599712.pem student-03-b3717aca6b88@35.222.82.243
+chmod 600 ~/Downloads/qwikLABS-L17613685
+chmod 600 ~/Downloads/qwikLABS-L17613685.pem
+ssh -i ~/Downloads/qwikLABS-L17613685.pem student-03-b3717aca6b88@34.136.169.61
+chmod 600 ~/Downloads/qwikLABS-L17614434.pem
+ssh -i ~/Downloads/qwikLABS-L17614434.pem student-03-c5f492efedd8@104.198.23.193 
+chmod 600 ~/Downloads/qwikLABS-L17721841.pem
+ssh -i ~/Downloads/qwikLABS-L17721841.pem student-03-759964b9773c@34.66.19.246 
+chmod 600 ~/Downloads/qwikLABS-L17834552.pem
+ssh -i ~/Downloads/qwikLABS-L17834552.pem student-03-759964b9773c@35.224.244.247
+chmod 600 ~/Downloads/qwikLABS-L17834552.pem
+ssh -i ~/Downloads/qwikLABS-L17834552.pem student-03-759964b9773c@35.188.192.133
+chmod 600 ~/Downloads/qwikLABS-L17956614.pem
+ssh -i ~/Downloads/qwikLABS-L17956614.pem student-03-b798f6337fec@104.154.162.219
+node EightBallProject.js
+cd 
+node EightBallProject.js
+ls
+cd Desktop
+EightBallProject.js
+cd Desktop
+ls
+cd Desktop
+node EightBallProject.js
+node EightBallProject.js
+cd Desktop JavaScript
+cd Desktop
+ls
+cd Desktop
+JavaScript
+cd Desktop
+ls
+JavaScript
+ls
+cd Desktop JavaScript
+cd Desktop
+ls Desktop
+cd Desktop
+cd /Desktop
+cd
+ls
+cd Desktop
+ls
+cat JavaScript
+cd JavaScript
+ls
+cat EightBallProject.js
+git --version
+git config --global user.name
+git config --global user.name "Fatima Mehak
+
+git config --global user.name "Fatima Mehak"
+git config --global user.name
+git config --global user.email
+git credential-osxkeychain
+git config --global credential.helper osxkeychain
+mkdir git_practice
+cd git_pratice
+cd git_practice
+git init
+echo "Hello Git and Github" >> README.txt
+git add README.txt
+git commit -m "First commit"
+git status
+git remote add origin https://github.com/bossladyofthefuture/git_practice.git
+git push -u origin main
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/bossladyofthefuture/git_practice.git
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/bossladyofthefuture/git_practice.git
+echo "# git_practice" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/bossladyofthefuture/git_practice.git
+git push -u origin main
+git remote add origin https://github.com/bossladyofthefuture/git_practice.git
+git branch -M main
+git push -u origin main
+git branch -M main
+git push -u origin main
+echo "# git_practice" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/bossladyofthefuture/git_practice.git
+git push -u origin main
+echo "# git_practice" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/bossladyofthefuture/git_practice.git
+git push -u origin main
+git push -u origin main
+mkdir git_practice
+cd git_practice
+git init
+echo "Hello Git and Github" >> README.txt
+git add README.txt
+git commit -m "First commit"
+git status
+git branch -M main
+git remote add origin https://github.com/bossladyofthefuture/git_practice.git
+git push -u origin main
+mkdir git_practice
+cd git_practice
+git init
+echo "Hello Git and Github" >> README.txt
+git add README.txt
+git commit -m "First commit"
+clone git_practice
+git clone git_practice
+clone git_practice
+git clone git_practice
+git branch -M main
+git remote add origin https://github.com/bossladyofthefuture/git_practice.git
+git push -u origin main
+cd
+ls
+README.md
+cat README.md
+rm README.md
+cd
+ls
+cat git.practice
+cat git_practice
+cd
+ls
+cat git_practice
+ls git_practice
+rm README.md
+rm README.txt
+pwd
+ls git_practice
+pwd
+git remote add origin https://github.com/bossladyofthefuture/git_practice.git
+git branch -M main
+git push -u origin main
+
+rm README.txt
+git rm README.txt
+git rm README.md
+cd
+ls
+cd
+ls -alt
+ls -alt git_practice
+rm -r git_practice
+cd
+ls
+ls git_practice
+ls -a git_practice
+cd git_practice
+echo "Hello Git and Github" >> README.txt
+git commit -m "My first commit for codecademy"
+git status
+git remote add origin https://github.com/bossladyofthefuture/git_practice.git
+git branch -M main
+git push -u origin main
+git branch -M main
+git remote add origin https://github.com/bossladyofthefuture/git_practice.git
+git push -u origin main
+(base) Futures-Air:git_practice futurebosslady$ git commit -m "My first commit for codecademy"
+On branch main
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+deleted:    README.md
+modified:   README.txt
+no changes added to commit (use "git add" and/or "git commit -a")
+(base) Futures-Air:git_practice futurebosslady$ git status
+On branch main
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+deleted:    README.md
+modified:   README.txt
+no changes added to commit (use "git add" and/or "git commit -a")
+(base) Futures-Air:git_practice futurebosslady$ git remote add origin https://github.com/bossladyofthefuture/git_practice.git
+(base) Futures-Air:git_practice futurebosslady$ git branch -M main
+(base) Futures-Air:git_practice futurebosslady$ git push -u origin main
+error: Could not read 504b69540445b605fa036872ce870718972766ee
+fatal: Failed to traverse parents of commit 6bafce128c7be6af67e48aea69c40adf02463313
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/bossladyofthefuture/git_practice.git'
+(base) Futures-Air:git_practice futurebosslady$ git branch -M main
+(base) Futures-Air:git_practice futurebosslady$ git remote add origin https://github.com/bossladyofthefuture/git_practice.git
+error: remote origin already exists.
+(base) Futures-Air:git_practice futurebosslady$ git push -u origin main
+error: Could not read 504b69540445b605fa036872ce870718972766ee
+fatal: Failed to traverse parents of commit 6bafce128c7be6af67e48aea69c40adf02463313
+fatal: the remote end hung up unexpectedly
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+error: failed to push some refs to 'https://github.com/bossladyofthefuture/git_practice.git'
+cd git_practice
+git init
+ls
+nano README.txt
+rm README.txt
+git init
+echo "Hello Git and Github" >> README.md
+git add README.md
+git commit -m "First commit"
+git status
+git remote add origin https://github.com/bossladyofthefuture/git_practice.git
+git branch -M main
+git push -u origin main
+git status
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git push -u origin main
+mkdir git_practice
+cd git_practice
+git init
+git add README.md
+git commit -m "first commit"
+git add README.txt
+git status
+cd
+ls
+ls git_practice
+echo "Hello Git and Github" >> README.txt
+git add README.txt
+git status
+git remote add origin https://github.com/bossladyofthefuture/git_practice.git
+git branch -M main
+git push -u origin main
+git
+git init
+git clone https://github.com/bossladyofthefuture/practicesample.git
+pwd
+cd
+cd Desktop
+pwd
+git init
+git clone https://github.com/bossladyofthefuture/practicesample.git
+cd
+cd practicesample
+pwd
+touch fatima.txt
+nano fatima.txt
+git status
+git add .
+git commit -m "I added fatima.txt"
+git push -u origin main
+git branch -M main
+git remote add origin git@github.com:bossladyofthefuture/practicesample.git
+git push -u origin main
+git
+git init
+git clone git@github.com:bossladyofthefuture/git_practice.git
+pwd
+cd
+cd Desktop
+pwd
+git init
+git branch -M main
+git remote add origin git@github.com:bossladyofthefuture/git_practice.git
+cd
+cd Desktop
+pwd
+git init
+git clone git@github.com:bossladyofthefuture/git_practice.git
+git
+git init
+git clone git clone https://github.com/bossladyofthefuture/git_practiceupdate.git
+git clone git@github.com:bossladyofthefuture/git_practiceupdate.git
+git clone https://github.com/bossladyofthefuture/git_practiceupdate.git
+pwd
+cd
+cd Desktop
+pwd
+git init
+cd
+cd git_practiceupdate
+pwd
+touch READ.txt
+nano READ.txt
+git status
+get add .
+git add .
+git commit -m "Added the read.txt"
+git branch -M main
+git remote add origin https://github.com/bossladyofthefuture/git_practiceupdate.git
+git push -u origin main
+cd Desktop
+mk dir excursion
+mkdir excursion
+cd excursion
+git init
+git add .
+git -m "Init Commit"
+git remote add origin https://github.com/bossladyofthefuture/excursion-2.git
+git push -u origin main
+git remote add origin https://github.com/bossladyofthefuture/excursion-2.git
+git branch -M main
+git push -u origin main
+git init
+git add .
+cd Desktop
+ls
+cd excursion
+git add .
+git commit -m "Initialized repo"
+pwd
+ls
+touch index.html
+nano index.html
+mkdir resources
+mkdir css
+touch index.css
+nano index.css
+ls
+cd resources
+mkdir css
+touch style.css
+nano style.css
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/bossladyofthefuture/excursion-2.git
+git push -u origin main
+pwd
+cd excursion
+cd ..
+pwd
+ls
+pwd
+pwd
+cd ..
+pwd
+cd ..
+pwd
+ls
+git init
+git add .
+git commit -m "First commit for html"
+git branch -M main
+git remote add origin https://github.com/bossladyofthefuture/excursion-2.git
+git push -u origin main
+pwd
+ls
+git remote -v
+git pull origin main
+git push -u origin main
+git status
+pwd
+ls
+cd ..
+pwd
+git log
+cd excursion
+git add .
+git commit -m "First commit adding html file"
+git push -u origin main
+git push -f origin main
+git
+clone remote https://github.com/bossladyofthefuture/sba-command-line-git.git
+git clone remote https://github.com/bossladyofthefuture/sba-command-line-git.git
+git clone https://github.com/bossladyofthefuture/sba-command-line-git.git
+touch index.html
+nano index.html
+pwd
+git init
+cd
+cd sba-command-line-git
+pwd
+touch index.html
+nano index.html
+git add .
+git commit -m "Added index.html file"
+git branch -M main
+git remote add origin https://github.com/bossladyofthefuture/sba-command-line-git.git
+git push -u origin main
+exit
